@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "SVXLink",
-  "message": "Unbekannt",
-  "color": "lightgrey"
+  "label": "10mRX",
+  "message": "CTCSS 123Hz active",
+  "color": "brightgreen"
 }

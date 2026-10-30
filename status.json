@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "RX",
-  "message": "CTCSS 123Hz off",
-  "color": "red"
+  "message": "CTCSS 123Hz active",
+  "color": "brightgreen"
 }
